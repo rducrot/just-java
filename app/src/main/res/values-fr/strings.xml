@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Juste Java</string>
+    <string name="name">Nom</string>
+    <string name="whipped_cream">Crème fouettée</string>
+    <string name="chocolate">Chocolat</string>
+    <string name="quantity">Quantité</string>
+    <string name="order">Commander</string>
+    <string name="topping">Garniture</string>
+    <string name="increment">Vous ne pouvez commander plus de 100 cafés !</string>
+    <string name="decrement">Vous ne pouvez commander moins d\'un café !</string>
+    <string name="subject">Commande Juste Java pour </string>
+    <string name="order_name">Nom : </string>
+    <string name="order_cream">Ajouter de la crème fouettée ? </string>
+    <string name="order_chocolate">Ajouter du chocolat ? </string>
+    <string name="order_quantity">Quantité : </string>
+    <string name="total">Total : €</string>
+    <string name="thank_you">Merci !</string>
+</resources>
